@@ -1,0 +1,18 @@
+{"short_name": "JF Sambis Clima",
+"name": "JF Sambis Clima",
+
+"icons": [{
+
+    "src": "images/logo.png",
+    "type": "image/png",
+    "sizes": "1024x1024"
+    }
+],
+
+"start_url": ".",
+"display": "standalone",
+"theme_coler": "#000000",
+"background_color": "#ffffff"
+
+
+}
