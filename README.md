@@ -12,5 +12,5 @@
 <a href="https://reactjs.org/"><img height="60" src="https://www.imagemhost.com.br/images/2021/02/23/react.png"></a>&nbsp&nbsp
 </p>
 
-## Host by netfliy:
+## Hosted by netfliy:
 https://jfsambisclima.netlify.app/
